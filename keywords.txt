@@ -1,0 +1,32 @@
+  
+#######################################
+# Syntax Coloring Map For 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+rtc_second	KEYWORD1
+rtc_minute	KEYWORD1
+rtc_hour	KEYWORD1
+rtc_dayOfWeek	KEYWORD1
+rtc_dayOfMonth	KEYWORD1
+rtc_month	KEYWORD1
+rtc_year	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+startClock	KEYWORD2
+stopClock	KEYWORD2
+setTime	KEYWORD2
+getTime	KEYWORD2
+fillByHMS	KEYWORD2
+fillByYMD	KEYWORD2
+fillDayOfWeek	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
